@@ -28,7 +28,7 @@ Building a 6DOF Robotic arm for assistance on a production line, Controlled thro
 Setting up and managing servers both home and datacentre servers to support personal projects, my website and project data.
 
 ### AI Tool
-Beggining the adaptation and training of an offline llamaAI AI tool to be trained on my prior studies and future projects!
+Beginning the adaptation and training of an offline llamaAI AI tool to be trained on my prior studies and future projects!
 
 ## 📫 How to reach me
 - Email: [rhyshopkins@live.co.uk](mailto:rhyshopkins@live.co.uk)
